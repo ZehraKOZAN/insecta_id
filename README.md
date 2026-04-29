@@ -1,4 +1,4 @@
-# 🪲 InsectaID — Yapay Zeka Destekli Hububat Zararlısı Tanımlama Uygulaması
+# 🪲 InsectID — Yapay Zeka Destekli Hububat Zararlısı Tanımlama Uygulaması
 
 <div align="center">
 
